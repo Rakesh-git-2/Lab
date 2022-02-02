@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "Lab",
-    "slug": "Lab",
+    "slug": "lab",
+    "owner":"rakesh2409",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "Lab.apk"
     },
     "web": {
       "favicon": "./assets/favicon.png"
